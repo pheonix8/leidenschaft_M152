@@ -26,6 +26,9 @@ mongoose.connect(process.env.DB_LOGIN_LOCAL, {
 });
 
 let indexRoutes = require("./routes/index");
+let videoRoutes = require("./routes/video");
+let impressionRoutes = require("./routes/impression");
+let aboutmeRoutes = require("./routes/aboutme");
 
 app
 
@@ -53,7 +56,10 @@ app
         next();
     })
 
-    .use("/", indexRoutes);
+    .use("/", indexRoutes)
+    .use("/video", videoRoutes)
+    .use("/impression", impressionRoutes)
+    .use("/aboutme", aboutmeRoutes);
 
 
 app.listen(process.env.PORT, () => {
