@@ -22,6 +22,7 @@ Next Steps:
 					
 					Möglichkeit eine Nachricht zu senden.
 					Mit Node Modul [node-mandrill](https://www.npmjs.com/package/node-mandrill)
+		- Footer Inhalt
 					
 The Node Server is from [Matti3939 (Matteo)](https://github.com/Matti3939/Node-Server-Bootstrap5)
 
