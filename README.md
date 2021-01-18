@@ -6,17 +6,17 @@ This is my multimedia Project
 
 Next Steps:
 
-	- Seiten fertig Programmieren (*Layout ähnlich wie das Xd Mockup*)
+	- Seiten fertig Programmieren (Layout ähnlich wie das Xd Mockup)
 		- Navbar: Hilfe Internet + Anderes Projekt
 					Verschieben (rechtsbündig)
 					Hover? wie das Dorpdown umsetzten
 		- Index: mit Hilfe von anderem Projekt
-				*Button um zum Video zu kommen.*
+				Button um zum Video zu kommen.
 		- Video: ein angegebenes Video wird gross in der Mitte angezeigt (Youtube video Eingebettet)
-				*Wichtig Hintergrund ?*
+				Wichtig Hintergrund ?
 		- Impressionen: Hilfe von anderem Projekt:
 							aufteilen zwischen Foto und Video
-							*Hitergrund einzelne Farbe*
+							Hitergrund einzelne Farbe
 		- About Me: Kleiner Text über mich + vermutlich Foto
 					Kontakt Daten
 					
