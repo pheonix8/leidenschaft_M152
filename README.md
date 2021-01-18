@@ -7,10 +7,10 @@ This is my multimedia Project
 Next Steps:
 
 	- Seiten fertig Programmieren (Layout ähnlich wie das Xd Mockup)
-		- Navbar: Hilfe Internet + Anderes Projekt
+		✔️- Navbar: Hilfe Internet + Anderes Projekt
 					Verschieben (rechtsbündig)
 					Hover? wie das Dorpdown umsetzten
-		- Index: mit Hilfe von anderem Projekt
+		✔️- Index: mit Hilfe von anderem Projekt
 				Button um zum Video zu kommen.
 		- Video: ein angegebenes Video wird gross in der Mitte angezeigt (Youtube video Eingebettet)
 				Wichtig Hintergrund ?

@@ -27,16 +27,22 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarText">
-            <ul class="navbar-nav">
+        <div class="collapse navbar-collapse offset" id="navbarText">
+            <ul class="nav navbar-nav menu_nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="/">Home</a>
+                    <a class="nav-link " aria-current="page" href="/">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="/video">Video</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="/impression">Impressionen</a>
+                    <div class="dropdown">
+                        <a class="nav-link dropimp" aria-current="page">Impressionen</a>
+                        <div class="dropdown-content">
+                            <a href="/impression" data-filter=".1">Ep1</a>
+                            <a href="/impression" data-filter=".2">Ep2</a>
+                        </div>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="/aboutme">Über mich</a>

@@ -27,8 +27,8 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarText">
-            <ul class="navbar-nav">
+        <div class="collapse navbar-collapse offset" id="navbarText">
+            <ul class="nav navbar-nav menu_nav ml-auto">
                 <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="/">Home</a>
                 </li>
@@ -36,14 +36,13 @@
                     <a class="nav-link" aria-current="page" href="/video">Video</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-current="page" href="/impression">
-                        Impressionen
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
+                    <div class="dropdown">
+                        <a class="nav-link dropimp" aria-current="page">Impressionen</a>
+                        <div class="dropdown-content">
+                            <a href="/impression" data-filter=".1">Ep1</a>
+                            <a href="/impression" data-filter=".2">Ep2</a>
+                        </div>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="/aboutme">Über mich</a>
@@ -64,6 +63,12 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="container-sm">
+        <div class="d-grid gap-2 justify-content-center">
+            <a class="btn btn-dark btn-lg" style="min-width: 200px" href="/video" role="button">SHOW TRAILER</a>
+        </div>
+    </div>
 </main>
 <footer class="footer">
     <h5>Creator:</h5>
