@@ -12,9 +12,9 @@ Next Steps:
 					Hover? wie das Dorpdown umsetzten
 		✔️- Index: mit Hilfe von anderem Projekt
 				Button um zum Video zu kommen.
-		- Video: ein angegebenes Video wird gross in der Mitte angezeigt (Youtube video Eingebettet)
+		✔️- Video: ein angegebenes Video wird gross in der Mitte angezeigt (Youtube video Eingebettet)
 				Wichtig Hintergrund ?
-		- Impressionen: Hilfe von anderem Projekt:
+		✔️- Impressionen: Hilfe von anderem Projekt:
 							aufteilen zwischen Foto und Video
 							Hitergrund einzelne Farbe
 		- About Me: Kleiner Text über mich + vermutlich Foto

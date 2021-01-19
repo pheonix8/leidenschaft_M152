@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/background_index.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
