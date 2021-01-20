@@ -72,6 +72,22 @@ body {
     }
 }
 
+@media (min-width: 1650px) {
+    .textbox {
+        max-width: 800px;
+    }
+}
+
+.space_100 {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.space_50 {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
 .title {
     text-align: center;
     background-color: rgba(179, 197, 217, 0.2);
@@ -82,7 +98,6 @@ body {
     padding-top: 100px;
     padding-bottom: 100px;
 }
-
 
 /* Video
 ============================================================================================ */
@@ -132,6 +147,13 @@ body {
 .filler_50 {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+/* Aboutme
+============================================================================================ */
+.logo img{
+max-height: 75%;
+max-width: 75%;
 }
 
 /* Footer

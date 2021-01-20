@@ -17,7 +17,7 @@ Next Steps:
 		✔️- Impressionen: Hilfe von anderem Projekt:
 							aufteilen zwischen Foto und Video
 							Hitergrund einzelne Farbe
-		- About Me: Kleiner Text über mich + vermutlich Foto
+		✔️- About Me: Kleiner Text über mich + vermutlich Foto
 					Kontakt Daten
 					
 					Möglichkeit eine Nachricht zu senden.
